@@ -1,4 +1,4 @@
-<html> 
+<!DOCTYPE html> 
 <head>
  <link href="style.css" rel="stylesheet" type="text/css">
      <title>charity.com </title>
@@ -15,7 +15,7 @@ over 500 kids with 'Chronic Pelvic Pain Syndrome' are being cared for. I would a
 </h4>
 </div>
 <div class="container">
-  <img src="image2.jpg" id="pics"
+  <img src="image2.jpg" id="pics">
   <h4 style="font-size: 20px;">
 Contact <a href="mailto">
   
