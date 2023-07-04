@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+<html> 
 <head>
  <link href="style.css" rel="stylesheet" type="text/css">
      <title>charity.com </title>
